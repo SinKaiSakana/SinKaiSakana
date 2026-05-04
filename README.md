@@ -1,3 +1,3 @@
 <div align="center">
 
-<img src="./images/profile.png" width="90%" />
+<img src="./images/profile.png" width="71%" />
